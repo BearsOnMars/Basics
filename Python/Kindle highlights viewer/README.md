@@ -1,4 +1,4 @@
-# 📚 Kindle Highlights Viewer
+# 📚 Kindle Highlights Hub
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%3E%3D1.20-orange)
