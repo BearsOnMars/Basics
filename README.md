@@ -1,2 +1,2 @@
 # Basics
-Quick reference for Python, SQL and others
+Quick reference and mini-projects
